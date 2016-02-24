@@ -1,6 +1,3 @@
-/**
- * Example component for A-Frame.
- */
 module.exports.component = {
 	dependencies: ["draw"],
 	schema: {
