@@ -1,6 +1,6 @@
 {
   "name": "aframe-textwrap-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Text wrapping for AFrame draw.",
   "main": "index.js",
   "scripts": {
