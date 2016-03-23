@@ -7,7 +7,7 @@
 
   // Register all components here.
   var components = {
-    example: require('./index').component
+    textwrap: require('./index').component
   };
 
   Object.keys(components).forEach(function (name) {

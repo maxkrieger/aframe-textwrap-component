@@ -53,7 +53,7 @@
 
 	  // Register all components here.
 	  var components = {
-	    example: __webpack_require__(1).component
+	    textwrap: __webpack_require__(1).component
 	  };
 
 	  Object.keys(components).forEach(function (name) {
@@ -70,9 +70,6 @@
 /* 1 */
 /***/ function(module, exports) {
 
-	/**
-	 * Example component for A-Frame.
-	 */
 	module.exports.component = {
 		dependencies: ["draw"],
 		schema: {
